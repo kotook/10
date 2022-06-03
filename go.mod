@@ -1,3 +1,3 @@
-module 1
+module mymod
 
 go 1.18
